@@ -381,14 +381,13 @@ header.active nav {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-
+    
 }
 
 .client img {
 	width: 85px;
 	border-radius: 50%;
 	margin-right: 15px;
-
 }
 
 .client span {
@@ -416,7 +415,7 @@ header.active nav {
 .callaction {
 	
 	height: 450px;
-	background: url(img/callaction-01.jpg) no-repeat center center;
+	background: url(img/snow00.jpg) no-repeat center center;
 	background-size: cover;
 	position: relative;
 	display: flex;
